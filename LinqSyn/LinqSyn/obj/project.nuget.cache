@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7uhBhXSZEgBvQF5uIq6mRslOKMBlnN+q6f+Z0e9Qb/xf5ZBmiG8nWJgZu15Uahk+8f53ZWKdXVaCnoJINyqwXg==",
+  "dgSpecHash": "v7nXDdvhV8VNjWb7hGNyXTRpj+2TczNnWbkNwGVTdIyFgu5NUC+ZNmyjrlPQHxEZnSf71khDpPh/+UACQikRag==",
   "success": true,
   "projectFilePath": "C:\\Users\\HIEU NGUYEN\\source\\repos\\linq-app\\LinqSyn\\LinqSyn\\LinqSyn.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\HIEU NGUYEN\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,17 @@
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\bin\Debug\net5.0\LinqSyn.exe
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\bin\Debug\net5.0\LinqSyn.deps.json
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\bin\Debug\net5.0\LinqSyn.runtimeconfig.json
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\bin\Debug\net5.0\LinqSyn.runtimeconfig.dev.json
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\bin\Debug\net5.0\LinqSyn.dll
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\bin\Debug\net5.0\ref\LinqSyn.dll
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\bin\Debug\net5.0\LinqSyn.pdb
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\obj\Debug\net5.0\LinqSyn.csproj.AssemblyReference.cache
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\obj\Debug\net5.0\LinqSyn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\obj\Debug\net5.0\LinqSyn.AssemblyInfoInputs.cache
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\obj\Debug\net5.0\LinqSyn.AssemblyInfo.cs
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\obj\Debug\net5.0\LinqSyn.csproj.CoreCompileInputs.cache
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\obj\Debug\net5.0\LinqSyn.dll
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\obj\Debug\net5.0\ref\LinqSyn.dll
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\obj\Debug\net5.0\LinqSyn.pdb
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\obj\Debug\net5.0\LinqSyn.genruntimeconfig.cache
+C:\Users\HIEU NGUYEN\source\repos\linq-app\LinqSyn\LinqSyn\bin\Debug\net5.0\Newtonsoft.Json.dll
